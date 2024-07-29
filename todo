@@ -1,5 +1,5 @@
 1. Registrasi/Pendaftaran Petugas dilakukan Admin di panel dashboard sehingga Petugas tinggal login dengan akun yang sudah diberikan oleh Admin
-2. Admin dibuatkanakun oleh SuperAdmin
+2. Admin dibuatkan akun oleh SuperAdmin
 3. Crud Barang
 4. Konfigurasi Database
 5. Login/logout System
